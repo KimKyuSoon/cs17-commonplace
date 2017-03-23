@@ -25,8 +25,8 @@
 
 ### 숙제 링크
 
-* 숙제 0: 숙제 제출 연습. 3월 26일 23:59 마감.
-* 숙제 1: 3월 31일 23:59 마감.
+* [숙제 0](https://classroom.github.com/assignment-invitations/8634c9b1ff9f4c13e8ef22437577ae0a): 숙제 제출 연습. 3월 26일 23:59 마감.
+* [숙제 1](https://classroom.github.com/assignment-invitations/888ad5c92b022a79a710d600b2281416): 3월 31일 23:59 마감.
 * 숙제 2: 
 * 숙제 3:
 * 숙제 4:
