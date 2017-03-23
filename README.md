@@ -73,7 +73,7 @@
 * 코드 컴파일 또는 실행 방법 (따로 설명이 필요한 경우)
 
 ## 문서 작성하기
-R이나 다른 스크립트 언어 실행 결과와 latex 문법, 마크다운을 결합하여 문서를 만드는 방법에는 여러 가지가 있으며, 이들 중 마음에 드는 것을 골라 사용하기를 권장합니다. 특히, 최신 버전 [RStudio](https://rmarkdown.rstudio.com/)에서 쓸 수 있는 [R Markdown Notebook](https://rmarkdown.rstudio.com/r_notebooks.html)은 [문학적 프로그래밍(literate programming)](https://en.wikipedia.org/wiki/Literate_programming) 방식의 일종으로서 html 형식 보고서 작성이 수월해질 것입니다. 
+R이나 다른 스크립트 언어 실행 결과와 latex 문법, 마크다운을 결합하여 문서를 만드는 방법에는 여러 가지가 있으며, 이들 중 마음에 드는 것을 골라 사용하기를 권장합니다. 특히, 최신 버전 [RStudio](https://rmarkdown.rstudio.com/)에서 쓸 수 있는 [R Markdown Notebook](https://rmarkdown.rstudio.com/r_notebooks.html)은 [문학적 프로그래밍(literate programming)](http://www2.warwick.ac.uk/fac/sci/wdsi/vacationschool2016/for-participants/materials/LitProg.pdf) 방식의 일종으로서 html 형식 보고서 작성이 수월해질 것입니다. 
 
 ## 추가 사항 
 * 다른 사람과 구두로 또는 cs17-commonplace의 이슈 트래커를 통해 논의할 수 있습니다. 과제 레포트의 해당 부분에 함께 논의한 학생 이름과 어떤 부분을 논의했는지 기록해야 합니다. 이슈 트래커에서 논의한 내용을 사용할 경우 해당 이슈 번호를 기입하면 됩니다. 
