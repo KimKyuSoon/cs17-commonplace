@@ -39,7 +39,7 @@
 
 * 모든 채점의 기준이 되며, 작성 방식에는 따로 제약이 없습니다.
 * 보고서 파일에는 문제풀이와 코드 실행 결과가 _정리되어_ 있어야 합니다. 
-* 최대 두 개의 `pdf` 또는 `html` 파일이 허용됩니다.
+* 최대 __두 개__의 `pdf` 또는 `html` 파일이 허용됩니다.
 * `html` 또는 `ipynb` 파일을 사용하는 경우 그림 파일이 제대로 표시되는 지 확인하시기 바랍니다. [상대 경로](https://en.wikipedia.org/wiki/Path_(computing)#Absolute_and_relative_paths)를 활용해 주세요. 
 * 손으로 쓴 내용을 스캔하는 경우 조교가 알아볼 수 있을 정도의 해상도를 사용하기 바랍니다.
 
@@ -60,7 +60,7 @@
 * 문서 파일에 첨부된 결과를 재현할 수 있어야 합니다.
   * 시뮬레이션 문제의 경우, R의 `set.seed`와 같이 같은 결과를 재현할 수 있게 해 주는 설정을 사용해야 합니다.
   * R Markdown Notebook을 사용하는 경우, 첫 번째 chunk부터 차례대로 실행했을 때 보고서와 같은 결과가 나와야 합니다.
-* R Markdown Notebook을 사용하는 경우에 한해 소스 코드를 따로 첨부하지 않을 수 있습니다. 
+* R Markdown Notebook, Jupyter Notebook, Matlab Live Script를 사용하는 경우 소스 코드를 따로 첨부하지 않을 수 있습니다. 단, 보고서 `.html`, `.pdf` 파일은 제출해야 합니다.
 
 ### `README.md`
 
