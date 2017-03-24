@@ -25,8 +25,8 @@
 
 ### 숙제 링크
 
-* 숙제 0: 숙제 제출 연습, 보너스 점수. 3월 26일 23:59 마감.
-* 숙제 1: 3월 31일 23:59 마감.
+* [숙제 0](https://classroom.github.com/assignment-invitations/8634c9b1ff9f4c13e8ef22437577ae0a): 숙제 제출 연습 및 계정 정보 제출. 3월 26일 23:59 마감.
+* [숙제 1](https://classroom.github.com/assignment-invitations/888ad5c92b022a79a710d600b2281416): 3월 31일 23:59 마감.
 * 숙제 2: 
 * 숙제 3:
 * 숙제 4:
@@ -35,7 +35,7 @@
 
 보고서 파일, 보고서 작성을 위해 사용한 파일, 문제 풀이에 사용한 소스 코드를 각각 제출해야 합니다. 파일 크기 제한은 GitHub의 기본 제한(파일 하나 당 100MB, repository 전체 1GB)을 따릅니다.
 
-### 보고서 파일
+### 보고서 파일 (`doc/`)
 
 * 모든 채점의 기준이 되며, 작성 방식에는 따로 제약이 없습니다.
 * 보고서 파일에는 문제풀이와 코드 실행 결과가 _정리되어_ 있어야 합니다. 
@@ -44,13 +44,13 @@
 * `html` 또는 `ipynb` 파일을 사용하는 경우 그림 파일이 제대로 표시되는 지 확인하시기 바랍니다. [상대 경로](https://en.wikipedia.org/wiki/Path_(computing)#Absolute_and_relative_paths)를 활용해 주세요. 
 * 손으로 쓴 내용을 스캔하는 경우 조교가 알아볼 수 있을 정도의 해상도를 사용하기 바랍니다.
 
-### 문서 작성을 위해 사용한 파일
+### 문서 작성을 위해 사용한 파일 (`doc/`)
 
 * 위에 적힌 형식의 파일을 만들기 위해 사용한 __모든__ 파일
 * `.doc`, `.docx`, `.hwp`, `.Rmd`, `.md` 등등
 * 설명이 필요하다고 판단되는 경우 작성 방법에 대해서도 기록할 것.
 
-### 문제 풀이에 사용한 소스 코드
+### 문제 풀이에 사용한 소스 코드 (`src/`)
 
 * `.R`, `.py`, `.c` 등등. 오픈 소스이거나 학교가 라이센스를 보유한 프로그램이면서 조교가 이해할 수 있는 언어를 사용하면 됩니다. 아래 목록에 포함되지 않은 언어를 사용하고자 하는 경우 조교에게 문의하기 바랍니다.
   * R, Python, Fortran, C, C++, Java, Scala, Julia, Matlab, Octave
@@ -73,7 +73,7 @@
 * 코드 컴파일 또는 실행 방법 (따로 설명이 필요한 경우)
 
 ## 문서 작성하기
-R이나 다른 스크립트 언어 실행 결과와 latex 문법, 마크다운을 결합하여 문서를 만드는 방법에는 여러 가지가 있으며, 이들 중 마음에 드는 것을 골라 사용하기를 권장합니다. 특히, 최신 버전 [RStudio](https://rmarkdown.rstudio.com/)에서 쓸 수 있는 [R Markdown Notebook](https://rmarkdown.rstudio.com/r_notebooks.html)은 [문학적 프로그래밍(literate programming)](https://en.wikipedia.org/wiki/Literate_programming) 방식의 일종으로서 html 형식 보고서 작성이 수월해질 것입니다. 
+R이나 다른 스크립트 언어 실행 결과와 latex 문법, 마크다운을 결합하여 문서를 만드는 방법에는 여러 가지가 있으며, 이들 중 마음에 드는 것을 골라 사용하기를 권장합니다. 특히, 최신 버전 [RStudio](https://rmarkdown.rstudio.com/)에서 쓸 수 있는 [R Markdown Notebook](https://rmarkdown.rstudio.com/r_notebooks.html)은 [문학적 프로그래밍(literate programming)](http://www2.warwick.ac.uk/fac/sci/wdsi/vacationschool2016/for-participants/materials/LitProg.pdf) 방식의 일종으로서 html 형식 보고서 작성이 수월해질 것입니다. 
 
 ## 추가 사항 
 * 다른 사람과 구두로 또는 cs17-commonplace의 이슈 트래커를 통해 논의할 수 있습니다. 과제 레포트의 해당 부분에 함께 논의한 학생 이름과 어떤 부분을 논의했는지 기록해야 합니다. 이슈 트래커에서 논의한 내용을 사용할 경우 해당 이슈 번호를 기입하면 됩니다. 
